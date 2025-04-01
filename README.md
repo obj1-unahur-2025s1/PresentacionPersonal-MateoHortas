@@ -17,5 +17,6 @@
 - Tengo una perra llamada Lucy la cual tiene 9 años
  ![Foto de mi perra](IMG_20250401_165215156.jpg)
 - Diariamente voy al  gimnasio
+ ![foto de cosas de gym](ImagenGimnasio.jpg)
 - Me gustan las peliculas de acción y ciencia ficción 
   
