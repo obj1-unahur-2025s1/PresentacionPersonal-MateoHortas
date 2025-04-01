@@ -4,10 +4,14 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
-- Vivo en
+- Mi nombre es: Mateo
+- Mi Apellido es: Hortas
+- Edad: 20
+- Vivo en Ituzaingo
 
 
 ### Otra Información
 - Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+- Tengo una perra llamada Lucy la cual tiene 9 años
+- Diariamente voy al  gimnasio
+- Me gustan las peliculas de ciencia ficción
