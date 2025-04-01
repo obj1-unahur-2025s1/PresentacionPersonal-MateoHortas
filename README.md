@@ -13,5 +13,6 @@
 ### Otra Información
 - Este es mi primer contacto con github
 - Tengo una perra llamada Lucy la cual tiene 9 años
+ ![Foto de mi perra]()
 - Diariamente voy al  gimnasio
 - Me gustan las peliculas de ciencia ficción
