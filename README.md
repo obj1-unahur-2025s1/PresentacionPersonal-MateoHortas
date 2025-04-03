@@ -9,7 +9,7 @@
 - Edad: 20
 - Vivo en Ituzaingo
 
-Hola, como ya habran leido me llamo Mateo, tengo 20 años, curse la secundaria en el colegio Americano y allí estudie economía con la cual me gradue y consegui el titulo para 2022, en 2023 me anote en la Unahur en la carrera de tecnicatura en programación para hoy en dia estar cursando esta materia.
+¡Hola! Mi nombre es Mateo, tengo 20 años y me gradué en 2022 del Colegio Americano, donde cursé la secundaria y me especialicé en Economía. Tras finalizar mis estudios en la secundaria, decidí continuar mi formación en el ámbito tecnológico, y en 2023 me inscribí en la Universidad Nacional de Hurlingham (UNAHUR) en la carrera de Tecnicatura en Programación. Actualmente, me encuentro cursando esta materia y profundizando mis conocimientos en el mundo de la programación.
 
 ### Información de mi cursada este cuatrimestre
 - Este es mi primer contacto con github
@@ -22,6 +22,6 @@ Hola, como ya habran leido me llamo Mateo, tengo 20 años, curse la secundaria e
 - Diariamente voy al  gimnasio
  ![foto de cosas de gym](ImagenGimnasio.jpg)
 - Me gusta las peliculas de acción y ciencia ficción
-- Me gusta ver series entre ellas mis favoritas son Vikingos y Breaking Bad pero aún hay más que podria enumerar
+- Disfruto ver series, entre mis favoritas están Vikingos y Breaking Bad, aunque tengo muchas más que podría enumerar
 
   
